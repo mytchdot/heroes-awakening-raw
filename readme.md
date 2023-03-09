@@ -1,3 +1,3 @@
 # Demo
 
-[demo (opens audio player)](./demo.mp3)
+[demo](./demo.mp3)
